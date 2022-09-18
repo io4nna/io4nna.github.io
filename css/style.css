@@ -10,3 +10,8 @@ body {
   color: #683238;
   font-family: "Open Sans", Arial, sans-serif;
 }
+
+.card-title {
+  color: #380810;
+  font-weight: 320;
+}

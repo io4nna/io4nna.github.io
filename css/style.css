@@ -4,3 +4,9 @@
   padding: 10px;
   border-width: 20px; 
 }
+
+body {
+  background: none;
+  color: #683238;
+  font-family: "Open Sans", Arial, sans-serif;
+}

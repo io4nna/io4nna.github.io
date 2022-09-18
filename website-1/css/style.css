@@ -1,0 +1,32 @@
+
+h2 {
+	color: pink;
+	font-size: 30
+}
+
+h3 {
+	color: red;
+	font-size: 40
+}
+
+li {
+	background-color: pink;
+}
+
+ol {
+	background-color: beige;
+}
+
+
+.loll { 
+	background-color: violet;
+}
+
+p {
+	color: yellow;
+	font-size:  30
+}
+
+img {
+	border: solid pink 10px;
+}
